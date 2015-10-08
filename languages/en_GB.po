@@ -1,0 +1,2030 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: reales\n"
+"POT-Creation-Date: 2015-05-01 03:00+0200\n"
+"PO-Revision-Date: 2015-05-01 03:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+"X-Poedit-SearchPathExcluded-2: fonts\n"
+"X-Poedit-SearchPathExcluded-3: css\n"
+"X-Poedit-SearchPathExcluded-4: languages\n"
+
+#: 404.php:15
+msgid "Sorry, we have a broken link!"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"The page you are looking for was moved, removed, renamed, or might never "
+"existed."
+msgstr ""
+
+#: 404.php:17
+msgid "Go Home"
+msgstr ""
+
+#: admin/settings.php:33
+msgid "Add new"
+msgstr ""
+
+#: admin/settings.php:35 admin/settings.php:1856 admin/settings.php:1902
+msgid "Text"
+msgstr ""
+
+#: admin/settings.php:36 admin/settings.php:1857 admin/settings.php:1908
+msgid "Numeric"
+msgstr ""
+
+#: admin/settings.php:37 admin/settings.php:1858 admin/settings.php:1914
+msgid "Date"
+msgstr ""
+
+#: admin/settings.php:38 admin/settings.php:1866 admin/settings.php:1925
+msgid "No"
+msgstr ""
+
+#: admin/settings.php:39 admin/settings.php:1867 admin/settings.php:1931
+msgid "Yes"
+msgstr ""
+
+#: admin/settings.php:40 admin/settings.php:1935
+msgid "Delete"
+msgstr ""
+
+#: admin/settings.php:60 admin/settings.php:2086
+msgid "General Settings"
+msgstr ""
+
+#: admin/settings.php:61
+msgid "Logo"
+msgstr ""
+
+#: admin/settings.php:62
+msgid "App Logo (32x32px)"
+msgstr ""
+
+#: admin/settings.php:63 admin/settings.php:166 admin/settings.php:184
+#: admin/settings.php:200 libs/widgets/contact_widget.php:51
+#: submit-property.php:280 templates/filter_properties.php:71
+msgid "Country"
+msgstr ""
+
+#: admin/settings.php:64
+msgid "Currency Symbol"
+msgstr ""
+
+#: admin/settings.php:65
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: admin/settings.php:66
+msgid "Max price for properties filter"
+msgstr ""
+
+#: admin/settings.php:67
+msgid "Measurement Unit"
+msgstr ""
+
+#: admin/settings.php:68
+msgid "Max area value for properties filter"
+msgstr ""
+
+#: admin/settings.php:69
+msgid "Front-end property publish without admin approval"
+msgstr ""
+
+#: admin/settings.php:75 admin/settings.php:2091 single-agent.php:101
+msgid "Contact"
+msgstr ""
+
+#: admin/settings.php:76
+msgid "Company Name"
+msgstr ""
+
+#: admin/settings.php:77 user-account.php:85
+msgid "E-mail"
+msgstr ""
+
+#: admin/settings.php:78 libs/widgets/contact_widget.php:31
+#: single-agent.php:52 single-agent.php:119 single-property.php:404
+#: user-account.php:130
+msgid "Phone"
+msgstr ""
+
+#: admin/settings.php:79 single-agent.php:58 user-account.php:136
+msgid "Mobile"
+msgstr ""
+
+#: admin/settings.php:80 single-agent.php:70 user-account.php:142
+msgid "Skype"
+msgstr ""
+
+#: admin/settings.php:81 admin/settings.php:162
+#: libs/widgets/contact_widget.php:35 submit-property.php:227
+msgid "Address"
+msgstr ""
+
+#: admin/settings.php:82 libs/widgets/social_widget.php:29
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/settings.php:83 libs/widgets/social_widget.php:33
+msgid "Twitter Link"
+msgstr ""
+
+#: admin/settings.php:84 libs/widgets/social_widget.php:37
+msgid "Google+ Link"
+msgstr ""
+
+#: admin/settings.php:85 libs/widgets/social_widget.php:41
+msgid "LinkedIn Link"
+msgstr ""
+
+#: admin/settings.php:91 admin/settings.php:2096
+msgid "Appearance"
+msgstr ""
+
+#: admin/settings.php:92
+msgid "Show user menu in header"
+msgstr ""
+
+#: admin/settings.php:93
+msgid "Homepage header type"
+msgstr ""
+
+#: admin/settings.php:94
+msgid "Homepage header video"
+msgstr ""
+
+#: admin/settings.php:95
+msgid "Header image shadow opacity"
+msgstr ""
+
+#: admin/settings.php:96
+msgid "Show homepage caption"
+msgstr ""
+
+#: admin/settings.php:97
+msgid "Homepage caption title"
+msgstr ""
+
+#: admin/settings.php:98
+msgid "Homepage caption subtitle"
+msgstr ""
+
+#: admin/settings.php:99
+msgid "Show homepage caption cta button"
+msgstr ""
+
+#: admin/settings.php:100
+msgid "Homepage caption cta button text"
+msgstr ""
+
+#: admin/settings.php:101
+msgid "Homepage caption cta button link"
+msgstr ""
+
+#: admin/settings.php:102
+msgid "Show homepage spotlight section"
+msgstr ""
+
+#: admin/settings.php:103
+msgid "Homepage spotlight section title"
+msgstr ""
+
+#: admin/settings.php:104
+msgid "Homepage spotlight section text"
+msgstr ""
+
+#: admin/settings.php:105
+msgid "Sidebar position"
+msgstr ""
+
+#: admin/settings.php:106
+msgid "Show related articles on blog post"
+msgstr ""
+
+#: admin/settings.php:107
+msgid "Show left side menu in app view"
+msgstr ""
+
+#: admin/settings.php:108
+msgid "Number of properties per page"
+msgstr ""
+
+#: admin/settings.php:109
+msgid "Show similar properties on property page"
+msgstr ""
+
+#: admin/settings.php:110
+msgid "Show breadcrumbs on pages"
+msgstr ""
+
+#: admin/settings.php:111
+msgid "Copyright text"
+msgstr ""
+
+#: admin/settings.php:117 admin/settings.php:2101
+msgid "Google Maps"
+msgstr ""
+
+#: admin/settings.php:118
+msgid "Google maps API key"
+msgstr ""
+
+#: admin/settings.php:119
+msgid "Google maps default latitude"
+msgstr ""
+
+#: admin/settings.php:120
+msgid "Google maps default longitude"
+msgstr ""
+
+#: admin/settings.php:121
+msgid "Google maps default zoom level"
+msgstr ""
+
+#: admin/settings.php:122
+msgid "Homepage map coordinates"
+msgstr ""
+
+#: admin/settings.php:128 admin/settings.php:2106
+msgid "Colors"
+msgstr ""
+
+#: admin/settings.php:129
+msgid "Main color"
+msgstr ""
+
+#: admin/settings.php:130
+msgid "Main color dark"
+msgstr ""
+
+#: admin/settings.php:131
+msgid "App sidebar background color"
+msgstr ""
+
+#: admin/settings.php:132
+msgid "App sidebar menu item active background color"
+msgstr ""
+
+#: admin/settings.php:133
+msgid "App sidebar submenu background color"
+msgstr ""
+
+#: admin/settings.php:134
+msgid "App sidebar submenu item active background color"
+msgstr ""
+
+#: admin/settings.php:135
+msgid "App sidebar menu text color"
+msgstr ""
+
+#: admin/settings.php:136
+msgid "App sidebar submenu text color"
+msgstr ""
+
+#: admin/settings.php:137
+msgid "Mobile view header icons active color"
+msgstr ""
+
+#: admin/settings.php:138
+msgid "Footer background color"
+msgstr ""
+
+#: admin/settings.php:139
+msgid "Footer headers text color"
+msgstr ""
+
+#: admin/settings.php:140
+msgid "Property type badge background color"
+msgstr ""
+
+#: admin/settings.php:141
+msgid "Favourite icon color"
+msgstr ""
+
+#: admin/settings.php:142
+msgid "Map markers color"
+msgstr ""
+
+#: admin/settings.php:143
+msgid "Property pending badge background color"
+msgstr ""
+
+#: admin/settings.php:149 admin/settings.php:210 admin/settings.php:2111
+#: single-property.php:294 submit-property.php:366
+#: templates/filter_properties.php:224
+msgid "Amenities"
+msgstr ""
+
+#: admin/settings.php:150
+msgid "Amenities List"
+msgstr ""
+
+#: admin/settings.php:156
+msgid "Property Fileds"
+msgstr ""
+
+#: admin/settings.php:157 single-property.php:259 submit-property.php:136
+msgid "Description"
+msgstr ""
+
+#: admin/settings.php:158 admin/settings.php:188 admin/settings.php:204
+#: functions.php:399 submit-property.php:152 submit-property.php:158
+#: submit-property.php:161 templates/filter_properties.php:122
+#: templates/filter_properties.php:124 templates/filter_properties.php:127
+#: templates/search_properties.php:85 templates/search_properties.php:88
+msgid "Category"
+msgstr ""
+
+#: admin/settings.php:159 admin/settings.php:189 admin/settings.php:205
+#: libs/class-tgm-plugin-activation.php:1390 submit-property.php:170
+#: submit-property.php:176 submit-property.php:179
+#: templates/filter_properties.php:136 templates/filter_properties.php:138
+#: templates/filter_properties.php:141 templates/search_properties.php:98
+#: templates/search_properties.php:101
+msgid "Type"
+msgstr ""
+
+#: admin/settings.php:160 admin/settings.php:186 admin/settings.php:202
+#: libs/widgets/contact_widget.php:39 submit-property.php:190
+#: templates/filter_properties.php:96 templates/search_properties.php:72
+msgid "City"
+msgstr ""
+
+#: admin/settings.php:161
+msgid "Coordinates"
+msgstr ""
+
+#: admin/settings.php:163 admin/settings.php:187 admin/settings.php:203
+#: submit-property.php:242 templates/filter_properties.php:209
+#: templates/search_properties.php:79
+msgid "Neighborhood"
+msgstr ""
+
+#: admin/settings.php:164 submit-property.php:256
+msgid "Zip Code"
+msgstr ""
+
+#: admin/settings.php:165 admin/settings.php:185 admin/settings.php:201
+#: submit-property.php:268
+msgid "County/State"
+msgstr ""
+
+#: admin/settings.php:167 admin/settings.php:191 admin/settings.php:207
+#: property-search-results.php:49 submit-property.php:318
+msgid "Area"
+msgstr ""
+
+#: admin/settings.php:168 admin/settings.php:192 admin/settings.php:208
+#: functions.php:402 property-search-results.php:47 single-property.php:197
+#: submit-property.php:335 templates/filter_properties.php:157
+#: templates/filter_properties.php:159 templates/filter_properties.php:162
+#: templates/search_properties.php:139 templates/search_properties.php:142
+msgid "Bedrooms"
+msgstr ""
+
+#: admin/settings.php:169 admin/settings.php:193 admin/settings.php:209
+#: functions.php:403 property-search-results.php:48 single-property.php:198
+#: submit-property.php:348 templates/filter_properties.php:173
+#: templates/filter_properties.php:175 templates/filter_properties.php:178
+#: templates/search_properties.php:154 templates/search_properties.php:157
+msgid "Bathrooms"
+msgstr ""
+
+#: admin/settings.php:170 single-property.php:318
+#: templates/floor_plans_upload.php:12
+msgid "Floor Plans"
+msgstr ""
+
+#: admin/settings.php:171
+msgid "Video"
+msgstr ""
+
+#: admin/settings.php:177
+msgid "Property Custom Fileds"
+msgstr ""
+
+#: admin/settings.php:183 admin/settings.php:2126
+msgid "Search Area Fields"
+msgstr ""
+
+#: admin/settings.php:190 admin/settings.php:206 submit-property.php:301
+msgid "Price"
+msgstr ""
+
+#: admin/settings.php:199 admin/settings.php:2131
+msgid "Filter Area Fields"
+msgstr ""
+
+#: admin/settings.php:216 admin/settings.php:2136
+msgid "Authentication"
+msgstr ""
+
+#: admin/settings.php:217
+msgid "Allow Facebook Login"
+msgstr ""
+
+#: admin/settings.php:218
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/settings.php:219
+msgid "Facebook App Secret"
+msgstr ""
+
+#: admin/settings.php:220
+msgid "Allow Google Signin"
+msgstr ""
+
+#: admin/settings.php:221
+msgid "Google Client ID"
+msgstr ""
+
+#: admin/settings.php:222
+msgid "Google Client Secret"
+msgstr ""
+
+#: admin/settings.php:223
+msgid "Allow users to register as agents"
+msgstr ""
+
+#: admin/settings.php:232 admin/settings.php:242 admin/settings.php:470
+msgid "Browse..."
+msgstr ""
+
+#: admin/settings.php:311
+msgid "sq ft"
+msgstr ""
+
+#: admin/settings.php:311
+msgid "sq m"
+msgstr ""
+
+#: admin/settings.php:915 admin/settings.php:950 admin/settings.php:985
+#: admin/settings.php:1020 admin/settings.php:1055 admin/settings.php:1090
+#: admin/settings.php:1125 admin/settings.php:1160 admin/settings.php:1195
+#: admin/settings.php:1230 admin/settings.php:1265 admin/settings.php:1300
+#: admin/settings.php:1320 admin/settings.php:1340 admin/settings.php:1360
+#: admin/settings.php:1380 admin/settings.php:1400 admin/settings.php:1420
+#: admin/settings.php:1440 admin/settings.php:1460 admin/settings.php:1480
+#: admin/settings.php:1500 admin/settings.php:1520 admin/settings.php:1540
+#: admin/settings.php:1560 admin/settings.php:1580 admin/settings.php:1600
+#: admin/settings.php:1620 admin/settings.php:1640 admin/settings.php:1660
+#: admin/settings.php:1680 admin/settings.php:1700 admin/settings.php:1720
+#: admin/settings.php:1740 admin/settings.php:1760 admin/settings.php:1780
+msgid "disabled"
+msgstr ""
+
+#: admin/settings.php:915 admin/settings.php:950 admin/settings.php:985
+#: admin/settings.php:1020 admin/settings.php:1055 admin/settings.php:1090
+#: admin/settings.php:1125 admin/settings.php:1160 admin/settings.php:1195
+#: admin/settings.php:1230 admin/settings.php:1265 admin/settings.php:1300
+#: admin/settings.php:1320 admin/settings.php:1340 admin/settings.php:1360
+#: admin/settings.php:1380 admin/settings.php:1400 admin/settings.php:1420
+#: admin/settings.php:1440 admin/settings.php:1460 admin/settings.php:1480
+#: admin/settings.php:1500 admin/settings.php:1520 admin/settings.php:1540
+#: admin/settings.php:1560 admin/settings.php:1580 admin/settings.php:1600
+#: admin/settings.php:1620 admin/settings.php:1640 admin/settings.php:1660
+#: admin/settings.php:1680 admin/settings.php:1700 admin/settings.php:1720
+#: admin/settings.php:1740 admin/settings.php:1760 admin/settings.php:1780
+#: libs/save_property.php:133 libs/save_property.php:137
+#: libs/save_property.php:141 libs/save_property.php:145
+#: libs/save_property.php:149 libs/save_property.php:153
+#: libs/save_property.php:157 libs/save_property.php:161
+#: libs/save_property.php:165 libs/save_property.php:169
+#: submit-property.php:134 submit-property.php:150 submit-property.php:168
+#: submit-property.php:188 submit-property.php:199 submit-property.php:224
+#: submit-property.php:239 submit-property.php:253 submit-property.php:265
+#: submit-property.php:277 submit-property.php:314 submit-property.php:332
+#: submit-property.php:345 submit-property.php:416 submit-property.php:421
+#: templates/filter_properties.php:68 templates/filter_properties.php:83
+#: templates/filter_properties.php:93 templates/filter_properties.php:103
+#: templates/filter_properties.php:118 templates/filter_properties.php:120
+#: templates/filter_properties.php:134 templates/filter_properties.php:153
+#: templates/filter_properties.php:155 templates/filter_properties.php:171
+#: templates/filter_properties.php:191 templates/filter_properties.php:206
+#: templates/filter_properties.php:217 templates/search_properties.php:44
+#: templates/search_properties.php:45 templates/search_properties.php:46
+#: templates/search_properties.php:47 templates/search_properties.php:48
+#: templates/search_properties.php:49 templates/search_properties.php:50
+#: templates/search_properties.php:51 templates/search_properties.php:52
+#: templates/search_properties.php:53 templates/search_properties.php:57
+#: templates/search_properties.php:65 templates/search_properties.php:70
+#: templates/search_properties.php:77 templates/search_properties.php:82
+#: templates/search_properties.php:95 templates/search_properties.php:108
+#: templates/search_properties.php:122 templates/search_properties.php:136
+#: templates/search_properties.php:151
+msgid "enabled"
+msgstr ""
+
+#: admin/settings.php:930 admin/settings.php:965 admin/settings.php:1000
+#: admin/settings.php:1035 admin/settings.php:1070 admin/settings.php:1105
+#: admin/settings.php:1140 admin/settings.php:1175 admin/settings.php:1210
+#: admin/settings.php:1245 admin/settings.php:1280
+msgid "not required"
+msgstr ""
+
+#: admin/settings.php:930 admin/settings.php:965 admin/settings.php:1000
+#: admin/settings.php:1035 admin/settings.php:1070 admin/settings.php:1105
+#: admin/settings.php:1140 admin/settings.php:1175 admin/settings.php:1210
+#: admin/settings.php:1245 admin/settings.php:1280 libs/save_property.php:133
+#: libs/save_property.php:137 libs/save_property.php:141
+#: libs/save_property.php:145 libs/save_property.php:149
+#: libs/save_property.php:153 libs/save_property.php:157
+#: libs/save_property.php:161 libs/save_property.php:165
+#: libs/save_property.php:169 submit-property.php:137 submit-property.php:153
+#: submit-property.php:171 submit-property.php:191 submit-property.php:204
+#: submit-property.php:214 submit-property.php:228 submit-property.php:243
+#: submit-property.php:257 submit-property.php:269 submit-property.php:281
+#: submit-property.php:319
+msgid "required"
+msgstr ""
+
+#: admin/settings.php:1837
+msgid "Add New Custom Filed"
+msgstr ""
+
+#: admin/settings.php:1841 admin/settings.php:1879
+msgid "Field name"
+msgstr ""
+
+#: admin/settings.php:1847 admin/settings.php:1880
+msgid "Field label"
+msgstr ""
+
+#: admin/settings.php:1853 admin/settings.php:1881
+msgid "Field type"
+msgstr ""
+
+#: admin/settings.php:1863 admin/settings.php:1882
+msgid "Mandatory"
+msgstr ""
+
+#: admin/settings.php:1873
+msgid "Add Field"
+msgstr ""
+
+#: admin/settings.php:1875
+msgid "Cutsom Fields List"
+msgstr ""
+
+#: admin/settings.php:1953
+msgid "Field name is mandatory."
+msgstr ""
+
+#: admin/settings.php:1957
+msgid "Field label is mandatory."
+msgstr ""
+
+#: admin/settings.php:1961
+msgid "Field type is mandatory."
+msgstr ""
+
+#: admin/settings.php:2116
+msgid "Property Fields"
+msgstr ""
+
+#: admin/settings.php:2121
+msgid "Property Custom Fields"
+msgstr ""
+
+#: archive.php:82 index.php:66 search.php:64 templates/related_posts.php:49
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: archive.php:99
+msgid "No posts found."
+msgstr ""
+
+#: archive.php:105 index.php:90 search.php:87
+msgid "Older Articles"
+msgstr ""
+
+#: archive.php:106 index.php:91 search.php:88
+msgid "Newer Articles"
+msgstr ""
+
+#: comments.php:17
+msgid "Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Newer Comments <span class=\"fa fa-angle-right\"></span>"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:55
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:56
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:59
+msgid "Your email address will not be published.  "
+msgstr ""
+
+#: comments.php:64
+msgid "Comment"
+msgstr ""
+
+#: comments.php:71 contact-page.php:97 single-agent.php:107
+#: single-property.php:392
+msgid "Name"
+msgstr ""
+
+#: comments.php:77 contact-page.php:103 single-agent.php:64
+#: single-agent.php:113 single-property.php:398
+msgid "Email"
+msgstr ""
+
+#: comments.php:83
+msgid "Website"
+msgstr ""
+
+#: contact-page.php:47
+msgid "Contact Details"
+msgstr ""
+
+#: contact-page.php:66
+msgid "Follow Us"
+msgstr ""
+
+#: contact-page.php:88
+msgid "Send Us a Message"
+msgstr ""
+
+#: contact-page.php:98 single-agent.php:108 single-property.php:393
+msgid "Enter your name"
+msgstr ""
+
+#: contact-page.php:104 single-agent.php:114 single-property.php:399
+msgid "Enter your email"
+msgstr ""
+
+#: contact-page.php:111 single-agent.php:125 single-property.php:410
+msgid "Subject"
+msgstr ""
+
+#: contact-page.php:112 single-agent.php:126 single-property.php:411
+msgid "Enter the subject"
+msgstr ""
+
+#: contact-page.php:119 single-agent.php:131 single-property.php:416
+msgid "Message"
+msgstr ""
+
+#: contact-page.php:120 single-agent.php:132 single-property.php:417
+msgid "Type your message"
+msgstr ""
+
+#: contact-page.php:127 functions.php:370 single-agent.php:137
+#: single-property.php:429
+msgid "Send Message"
+msgstr ""
+
+#: favourite-properties.php:33 idx-listings.php:20 my-properties.php:30
+#: property-search-results.php:25 single-agent.php:15 single-property.php:15
+#: submit-property.php:115
+msgid "Loading map..."
+msgstr ""
+
+#: favourite-properties.php:43 favourite-properties.php:125
+#: my-properties.php:40 my-properties.php:123 property-search-results.php:160
+msgid " Properties found"
+msgstr ""
+
+#: favourite-properties.php:125 my-properties.php:123
+#: property-search-results.php:160
+msgid " of "
+msgstr ""
+
+#: functions.php:51 libs/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:52 libs/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:53 libs/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:54
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:55 libs/class-tgm-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: functions.php:56 libs/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: functions.php:57 libs/class-tgm-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: functions.php:58 libs/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: functions.php:59 libs/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: functions.php:60 libs/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: functions.php:61 libs/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: functions.php:62 libs/class-tgm-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: functions.php:63 libs/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgstr ""
+
+#: functions.php:64 libs/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgstr ""
+
+#: functions.php:65 libs/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:66 libs/class-tgm-plugin-activation.php:177
+#: libs/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:67
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:152
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:153
+msgid "Left side secondary menu"
+msgstr ""
+
+#: functions.php:328 functions.php:330 functions.php:332 functions.php:334
+#: functions.php:336 functions.php:339
+msgid "Sending..."
+msgstr ""
+
+#: functions.php:329 templates/user_menu.php:133 templates/user_menu.php:207
+#: templates/user_menu.php:218 templates/user_menu.php:252
+msgid "Sign Up"
+msgstr ""
+
+#: functions.php:331 templates/user_menu.php:134 templates/user_menu.php:144
+#: templates/user_menu.php:204 templates/user_menu.php:255
+msgid "Sign In"
+msgstr ""
+
+#: functions.php:333 templates/user_menu.php:277
+msgid "Get New Password"
+msgstr ""
+
+#: functions.php:335 templates/user_menu.php:290 templates/user_menu.php:305
+msgid "Reset Password"
+msgstr ""
+
+#: functions.php:337 templates/user_menu.php:171
+msgid "Sign In with Facebook"
+msgstr ""
+
+#: functions.php:338
+msgid "Login cancelled or not fully authorized!"
+msgstr ""
+
+#: functions.php:340 templates/user_menu.php:178
+msgid "Sign In with Google"
+msgstr ""
+
+#: functions.php:341
+msgid "Signin cancelled or not fully authorized!"
+msgstr ""
+
+#: functions.php:360 single-property.php:428
+msgid "Close"
+msgstr ""
+
+#: functions.php:361
+msgid "View"
+msgstr ""
+
+#: functions.php:365 submit-property.php:449
+msgid "Update Property"
+msgstr ""
+
+#: functions.php:367
+msgid "Saving Property..."
+msgstr ""
+
+#: functions.php:368
+msgid "Deleting Property..."
+msgstr ""
+
+#: functions.php:371
+msgid "Sending Message..."
+msgstr ""
+
+#: functions.php:372
+msgid "Updating Profile..."
+msgstr ""
+
+#: functions.php:390
+msgid "Please set location"
+msgstr ""
+
+#: functions.php:396
+msgid "Search for..."
+msgstr ""
+
+#: functions.php:398
+msgid "Location"
+msgstr ""
+
+#: functions.php:400 templates/search_properties.php:112
+msgid "Min price"
+msgstr ""
+
+#: functions.php:401 templates/search_properties.php:118
+msgid "Max price"
+msgstr ""
+
+#: functions.php:404 templates/search_properties.php:168
+msgid "Advanced Search"
+msgstr ""
+
+#: functions.php:405
+msgid "Show advanced search options"
+msgstr ""
+
+#: functions.php:406
+msgid "Hide advanced search options"
+msgstr ""
+
+#: functions.php:418 functions.php:441
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: functions.php:427 functions.php:450
+msgid "Allowed Files"
+msgstr ""
+
+#: functions.php:541 functions.php:570
+msgid "Show in Slideshow"
+msgstr ""
+
+#: functions.php:586
+msgid "yes"
+msgstr ""
+
+#: functions.php:588
+msgid "no"
+msgstr ""
+
+#: functions.php:637
+msgid "Main Widget Area"
+msgstr ""
+
+#: functions.php:639
+msgid "The main widget area"
+msgstr ""
+
+#: functions.php:647
+msgid "IDX Homepage Search Widget Area"
+msgstr ""
+
+#: functions.php:649
+msgid "IDX homepage search form widget area"
+msgstr ""
+
+#: functions.php:657
+msgid "IDX Properties Page Search Widget Area"
+msgstr ""
+
+#: functions.php:659
+msgid "IDX properties page search form widget area"
+msgstr ""
+
+#: functions.php:667
+msgid "1st Footer Widget Area"
+msgstr ""
+
+#: functions.php:669
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:677
+msgid "2nd Footer Widget Area"
+msgstr ""
+
+#: functions.php:679
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:687
+msgid "3rd Footer Widget Area"
+msgstr ""
+
+#: functions.php:689
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:697
+msgid "4th Footer Widget Area"
+msgstr ""
+
+#: functions.php:699
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: functions.php:714 index.php:72
+msgid "Featured"
+msgstr ""
+
+#: functions.php:740
+msgid "Set as Featured"
+msgstr ""
+
+#: functions.php:793
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:796
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:808
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:818
+msgid "Edit"
+msgstr ""
+
+#: functions.php:869
+msgid "Views"
+msgstr ""
+
+#: functions.php:970
+msgid "Sticky"
+msgstr ""
+
+#: functions.php:975 functions.php:980
+msgid ", "
+msgstr ""
+
+#: functions.php:988
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:1004
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:1054
+msgid "Home"
+msgstr ""
+
+#: index.php:23
+msgid "Latest Posts"
+msgstr ""
+
+#: index.php:84
+msgid "No posts found"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:532
+#: libs/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1167
+#: libs/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1170
+#: libs/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1288
+#: libs/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1312
+#: libs/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2070
+#: libs/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2070
+#: libs/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: libs/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/contact_agent.php:26 libs/contact_company.php:21
+msgid "Your message failed to be sent. Please check your fields."
+msgstr ""
+
+#: libs/contact_agent.php:32 libs/contact_agent.php:38
+msgid "You received the following message from "
+msgstr ""
+
+#: libs/contact_agent.php:34
+msgid "regarding a property you listed: "
+msgstr ""
+
+#: libs/contact_agent.php:48 libs/contact_company.php:30
+#, php-format
+msgid "[%s Message from client] %s"
+msgstr ""
+
+#: libs/contact_agent.php:54 libs/contact_company.php:36
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: libs/contact_agent.php:57 libs/contact_company.php:39
+msgid "Your message failed to be sent."
+msgstr ""
+
+#: libs/properties.php:724
+#, php-format
+msgid "Congratulations, %s! Your property \"%s\" has been published."
+msgstr ""
+
+#: libs/properties.php:725
+#, php-format
+msgid "View: %s"
+msgstr ""
+
+#: libs/properties.php:731
+#, php-format
+msgid "[%s] Property Published: %s"
+msgstr ""
+
+#: libs/save_property.php:13
+#, php-format
+msgid "A new property was submitted on %s:"
+msgstr ""
+
+#: libs/save_property.php:14 libs/save_property.php:27
+#, php-format
+msgid "Property title: %s"
+msgstr ""
+
+#: libs/save_property.php:15 libs/save_property.php:28
+#, php-format
+msgid "Agent: %s"
+msgstr ""
+
+#: libs/save_property.php:21
+#, php-format
+msgid "[%s] Property Submitted"
+msgstr ""
+
+#: libs/save_property.php:26
+#, php-format
+msgid "A property was updated on %s:"
+msgstr ""
+
+#: libs/save_property.php:34
+#, php-format
+msgid "[%s] Property Updated"
+msgstr ""
+
+#: libs/save_property.php:130
+msgid "Title field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:134
+msgid "Description field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:138
+msgid "Category field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:142
+msgid "Type field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:146
+msgid "Coordinates fields are mandatory."
+msgstr ""
+
+#: libs/save_property.php:150
+msgid "Address field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:154
+msgid "Neighborhood field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:158
+msgid "Zip Code field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:162
+msgid "County/State field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:166
+msgid "Country field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:170
+msgid "Area field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:174
+msgid "Price field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:178
+msgid "Upload at least 1 image in gallery."
+msgstr ""
+
+#: libs/save_property.php:184
+#, php-format
+msgid "%s field is mandatory."
+msgstr ""
+
+#: libs/save_property.php:241
+msgid "The property was successfully saved and published."
+msgstr ""
+
+#: libs/save_property.php:244
+msgid "The property was successfully saved and pending for approval."
+msgstr ""
+
+#: libs/save_property.php:248
+msgid "Something went wrong. The property was not saved."
+msgstr ""
+
+#: libs/save_property.php:270
+msgid "The property was successfully deleted. Redirecting..."
+msgstr ""
+
+#: libs/save_property.php:273
+msgid "Something went wrong. The property was not deleted."
+msgstr ""
+
+#: libs/users.php:18
+#, php-format
+msgid "New user Sign Up on %s:"
+msgstr ""
+
+#: libs/users.php:19 libs/users.php:35 libs/users.php:300
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: libs/users.php:20
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: libs/users.php:26
+#, php-format
+msgid "[%s] New User Sign Up"
+msgstr ""
+
+#: libs/users.php:33
+#, php-format
+msgid "Welcome, %s!"
+msgstr ""
+
+#: libs/users.php:34
+msgid ""
+"Thank you for signing up with us. Your new account has been setup and you "
+"can now login using the details below."
+msgstr ""
+
+#: libs/users.php:36
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: libs/users.php:37
+msgid "Thank you,"
+msgstr ""
+
+#: libs/users.php:38
+#, php-format
+msgid "%s Team"
+msgstr ""
+
+#: libs/users.php:44
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: libs/users.php:65
+msgid "Required form fields are empty!"
+msgstr ""
+
+#: libs/users.php:69
+msgid "Username too short. Please enter at least 4 characters!"
+msgstr ""
+
+#: libs/users.php:73
+msgid "Username already exists!"
+msgstr ""
+
+#: libs/users.php:77
+msgid "Invalid Username!"
+msgstr ""
+
+#: libs/users.php:81
+msgid "Invalid Email!"
+msgstr ""
+
+#: libs/users.php:85
+msgid "Email already exists!"
+msgstr ""
+
+#: libs/users.php:89 libs/users.php:554
+msgid "Password too short. Please enter at least 6 characters!"
+msgstr ""
+
+#: libs/users.php:93 libs/users.php:346 libs/users.php:558
+msgid "The passwords do not match!"
+msgstr ""
+
+#: libs/users.php:108 libs/users.php:400 libs/users.php:457
+msgid "Something went wrong!"
+msgstr ""
+
+#: libs/users.php:111
+msgid "Congratulations! You have successfully signed up."
+msgstr ""
+
+#: libs/users.php:210 libs/users.php:365 libs/users.php:422
+msgid "You are already signed in, redirecting..."
+msgstr ""
+
+#: libs/users.php:219 libs/users.php:238
+msgid "Invalid username or password!"
+msgstr ""
+
+#: libs/users.php:245 libs/users.php:407 libs/users.php:464
+msgid "Sign in successful, redirecting..."
+msgstr ""
+
+#: libs/users.php:264
+msgid "Email field is empty!"
+msgstr ""
+
+#: libs/users.php:273
+msgid "Invalid email address!"
+msgstr ""
+
+#: libs/users.php:279
+msgid "Invalid username!"
+msgstr ""
+
+#: libs/users.php:298
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: libs/users.php:301
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: libs/users.php:304
+msgid "Password Reset Request"
+msgstr ""
+
+#: libs/users.php:305
+msgid "Email failed to send for some unknown reason."
+msgstr ""
+
+#: libs/users.php:308
+msgid "An email with password reset instructions was sent to you."
+msgstr ""
+
+#: libs/users.php:329
+msgid "Password field empty!"
+msgstr ""
+
+#: libs/users.php:337 libs/users.php:340
+msgid "Sorry, the link does not appear to be valid or is expired!"
+msgstr ""
+
+#: libs/users.php:350
+msgid "Your password has been reset."
+msgstr ""
+
+#: libs/users.php:538
+msgid "First Name field is mandatory."
+msgstr ""
+
+#: libs/users.php:542
+msgid "Last Name field is mandatory."
+msgstr ""
+
+#: libs/users.php:546
+msgid "E-mail field is mandatory."
+msgstr ""
+
+#: libs/users.php:550
+msgid "Nickname field is mandatory."
+msgstr ""
+
+#: libs/users.php:596
+msgid "Your profile was successfully updated."
+msgstr ""
+
+#: libs/widgets/contact_widget.php:27
+#: libs/widgets/featured_agents_widget.php:22
+#: libs/widgets/featured_properties_widget.php:22
+#: libs/widgets/recent_properties_widget.php:22
+#: libs/widgets/social_widget.php:25 submit-property.php:129
+msgid "Title"
+msgstr ""
+
+#: libs/widgets/contact_widget.php:43 templates/filter_properties.php:86
+#: templates/search_properties.php:67
+msgid "State/County"
+msgstr ""
+
+#: libs/widgets/contact_widget.php:47
+msgid "Zip code"
+msgstr ""
+
+#: libs/widgets/featured_agents_widget.php:26
+msgid "Number of agents to show"
+msgstr ""
+
+#: libs/widgets/featured_properties_widget.php:26
+#: libs/widgets/recent_properties_widget.php:26
+msgid "Number of properties to show"
+msgstr ""
+
+#: my-properties.php:96
+msgid "Pending"
+msgstr ""
+
+#: property-search-results.php:39
+msgid "Sort by:"
+msgstr ""
+
+#: property-search-results.php:41 property-search-results.php:44
+msgid "Newest"
+msgstr ""
+
+#: property-search-results.php:45
+msgid "Price (Lo-Hi)"
+msgstr ""
+
+#: property-search-results.php:46
+msgid "Price (Hi-Lo)"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:81
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single-agent.php:74 user-account.php:122
+msgid "Specialities"
+msgstr ""
+
+#: single-agent.php:99 user-account.php:114
+msgid "About"
+msgstr ""
+
+#: single-agent.php:120 single-property.php:405 user-account.php:131
+msgid "Enter your phone number"
+msgstr ""
+
+#: single-property.php:243
+msgid "Edit Property"
+msgstr ""
+
+#: single-property.php:245 single-property.php:247 single-property.php:384
+msgid "Contact Agent"
+msgstr ""
+
+#: single-property.php:270 single-property.php:271 single.php:52
+msgid "Share on Facebook"
+msgstr ""
+
+#: single-property.php:275 single-property.php:276 single.php:57
+msgid "Share on Twitter"
+msgstr ""
+
+#: single-property.php:280 single-property.php:281 single.php:62
+msgid "Share on Google+"
+msgstr ""
+
+#: single-property.php:338
+msgid "Additional Information"
+msgstr ""
+
+#: single-property.php:354
+msgid "No additional information."
+msgstr ""
+
+#: single.php:91 templates/post_hero.php:33
+msgid "Previous article"
+msgstr ""
+
+#: single.php:98 templates/post_hero.php:39
+msgid "Next article"
+msgstr ""
+
+#: submit-property.php:130
+msgid "Enter property title"
+msgstr ""
+
+#: submit-property.php:195
+msgid "Enter a city name"
+msgstr ""
+
+#: submit-property.php:196
+msgid "You can drag the marker to property position"
+msgstr ""
+
+#: submit-property.php:203
+msgid "Latitude"
+msgstr ""
+
+#: submit-property.php:208
+msgid "Enter latitude"
+msgstr ""
+
+#: submit-property.php:213
+msgid "Longitude"
+msgstr ""
+
+#: submit-property.php:218
+msgid "Enter longitude"
+msgstr ""
+
+#: submit-property.php:233
+msgid "Enter address"
+msgstr ""
+
+#: submit-property.php:234
+msgid "Place pin by address"
+msgstr ""
+
+#: submit-property.php:247 templates/filter_properties.php:210
+msgid "Enter neighborhood"
+msgstr ""
+
+#: submit-property.php:261
+msgid "Enter zip code"
+msgstr ""
+
+#: submit-property.php:273
+msgid "Enter county/state"
+msgstr ""
+
+#: submit-property.php:304
+msgid "Enter price"
+msgstr ""
+
+#: submit-property.php:310
+msgid "Price Label (e.g. \"per month\")"
+msgstr ""
+
+#: submit-property.php:311
+msgid "Enter price label"
+msgstr ""
+
+#: submit-property.php:324
+msgid "Enter area"
+msgstr ""
+
+#: submit-property.php:425
+msgid "Video source"
+msgstr ""
+
+#: submit-property.php:427 submit-property.php:430
+msgid "none"
+msgstr ""
+
+#: submit-property.php:431
+msgid "youtube"
+msgstr ""
+
+#: submit-property.php:432
+msgid "vimeo"
+msgstr ""
+
+#: submit-property.php:438
+msgid "Video ID"
+msgstr ""
+
+#: submit-property.php:439
+msgid "Enter video ID"
+msgstr ""
+
+#: submit-property.php:449
+msgid "Submit Property"
+msgstr ""
+
+#: submit-property.php:452 submit-property.php:456
+msgid "View Property"
+msgstr ""
+
+#: submit-property.php:454 submit-property.php:457
+msgid "Delete Property"
+msgstr ""
+
+#: templates/agent_properties.php:9
+msgid "Properties Listed by Agent"
+msgstr ""
+
+#: templates/agent_properties.php:97
+msgid "No listed properties found."
+msgstr ""
+
+#: templates/avatar_upload.php:9
+msgid "Avatar Photo"
+msgstr ""
+
+#: templates/avatar_upload.php:15
+msgid "Browse Photos"
+msgstr ""
+
+#: templates/blog_carousel.php:53
+msgid "Featured on Blog"
+msgstr ""
+
+#: templates/blog_carousel.php:56
+msgid "Read More"
+msgstr ""
+
+#: templates/filter_properties.php:59
+msgid "Filter your results"
+msgstr ""
+
+#: templates/filter_properties.php:87
+msgid "Enter state/county"
+msgstr ""
+
+#: templates/filter_properties.php:97
+msgid "Enter city"
+msgstr ""
+
+#: templates/filter_properties.php:106
+msgid "Price Range"
+msgstr ""
+
+#: templates/filter_properties.php:194
+msgid "Area Range"
+msgstr ""
+
+#: templates/filter_properties.php:253
+msgid "Apply Filter"
+msgstr ""
+
+#: templates/filter_properties.php:254
+msgid "Show Advanced Filter Options"
+msgstr ""
+
+#: templates/filter_properties.php:255
+msgid "Hide Advanced Filter Options"
+msgstr ""
+
+#: templates/floor_plans_upload.php:18
+msgid "Browse Plans Images"
+msgstr ""
+
+#: templates/gallery_upload.php:9
+msgid "Image Gallery"
+msgstr ""
+
+#: templates/gallery_upload.php:15
+msgid "Browse Images"
+msgstr ""
+
+#: templates/page_error_caption.php:9
+msgid "404"
+msgstr ""
+
+#: templates/related_posts.php:8
+msgid "Related Articles"
+msgstr ""
+
+#: templates/search_properties.php:126
+msgid "Min area"
+msgstr ""
+
+#: templates/search_properties.php:132
+msgid "Max area"
+msgstr ""
+
+#: templates/search_properties.php:167
+msgid "Search"
+msgstr ""
+
+#: templates/similar_properties.php:9
+msgid "Similar Properties"
+msgstr ""
+
+#: templates/similar_properties.php:120
+msgid "No similar properties found."
+msgstr ""
+
+#: templates/user_menu.php:65
+msgid "Submit new property"
+msgstr ""
+
+#: templates/user_menu.php:84
+msgid "My properties"
+msgstr ""
+
+#: templates/user_menu.php:104
+msgid "Favourite Properties"
+msgstr ""
+
+#: templates/user_menu.php:123
+msgid "Account Settings"
+msgstr ""
+
+#: templates/user_menu.php:124
+msgid "Logout"
+msgstr ""
+
+#: templates/user_menu.php:183
+msgid "OR"
+msgstr ""
+
+#: templates/user_menu.php:186 templates/user_menu.php:229
+msgid "Username"
+msgstr ""
+
+#: templates/user_menu.php:189 templates/user_menu.php:241
+msgid "Password"
+msgstr ""
+
+#: templates/user_menu.php:194
+msgid "Remember me"
+msgstr ""
+
+#: templates/user_menu.php:197 templates/user_menu.php:247
+msgid "Forgot password?"
+msgstr ""
+
+#: templates/user_menu.php:207
+msgid "Don't have an account?"
+msgstr ""
+
+#: templates/user_menu.php:225
+msgid "Register me as agent"
+msgstr ""
+
+#: templates/user_menu.php:232 user-account.php:65
+msgid "First Name"
+msgstr ""
+
+#: templates/user_menu.php:235 user-account.php:71
+msgid "Last Name"
+msgstr ""
+
+#: templates/user_menu.php:238
+msgid "Email Address"
+msgstr ""
+
+#: templates/user_menu.php:244 templates/user_menu.php:299
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/user_menu.php:255
+msgid "Already a member?"
+msgstr ""
+
+#: templates/user_menu.php:266
+msgid "Forgot Password"
+msgstr ""
+
+#: templates/user_menu.php:272
+msgid "Username or Email address"
+msgstr ""
+
+#: templates/user_menu.php:296 user-account.php:97
+msgid "New Password"
+msgstr ""
+
+#: templates/user_menu.php:301
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers, and symbols like ! \" ? "
+"$ % ^ & )."
+msgstr ""
+
+#: user-account.php:59
+msgid "Manage Profile Information and Password"
+msgstr ""
+
+#: user-account.php:66
+msgid "Enter your first name"
+msgstr ""
+
+#: user-account.php:72
+msgid "Enter your last name"
+msgstr ""
+
+#: user-account.php:79
+msgid "Nickname"
+msgstr ""
+
+#: user-account.php:80
+msgid "Enter your nickname"
+msgstr ""
+
+#: user-account.php:86
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: user-account.php:98
+msgid "Enter your new password"
+msgstr ""
+
+#: user-account.php:103
+msgid "Repeat New Password"
+msgstr ""
+
+#: user-account.php:104
+msgid "Repeat your new password"
+msgstr ""
+
+#: user-account.php:110
+msgid "Manage Agent Profile Information"
+msgstr ""
+
+#: user-account.php:123
+msgid "Enter your specialities"
+msgstr ""
+
+#: user-account.php:137
+msgid "Enter your mobile number"
+msgstr ""
+
+#: user-account.php:143
+msgid "Enter your Skype ID"
+msgstr ""
+
+#: user-account.php:150
+msgid "Facebook"
+msgstr ""
+
+#: user-account.php:151
+msgid "Enter your Facebook profile URL"
+msgstr ""
+
+#: user-account.php:156
+msgid "Twitter"
+msgstr ""
+
+#: user-account.php:157
+msgid "Enter your Twitter profile URL"
+msgstr ""
+
+#: user-account.php:164
+msgid "Google+"
+msgstr ""
+
+#: user-account.php:165
+msgid "Enter your Google+ profile URL"
+msgstr ""
+
+#: user-account.php:170
+msgid "LinkedIn"
+msgstr ""
+
+#: user-account.php:171
+msgid "Enter your LinkedIn profile URL"
+msgstr ""
+
+#: user-account.php:182
+msgid "Update Profile"
+msgstr ""
